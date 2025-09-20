@@ -11,7 +11,8 @@ URL Shortener Web Application is a user-friendly web-based tool that allows user
 - User-friendly Interface: Intuitive and responsive UI design for a seamless user experience.
 
 ## Demo
-![URL Shortener Demo](https://github.com/Akshay-Singh-Rajput/MERN-Stack-URL-Shortener/assets/97354310/8e5a29d2-1477-486d-bd9c-b9292fe8d224)
+<img width="1828" height="813" alt="Screenshot 2025-09-20 180809" src="https://github.com/user-attachments/assets/d07de35a-e522-4d2b-a465-23094b9f4e9f" />
+
 
 ## Live Demo
 Try out the live demo of the URL Shortener Web Application [here](https://lightlink.vercel.app).

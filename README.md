@@ -14,9 +14,6 @@ URL Shortener Web Application is a user-friendly web-based tool that allows user
 <img width="1828" height="813" alt="Screenshot 2025-09-20 180809" src="https://github.com/user-attachments/assets/d07de35a-e522-4d2b-a465-23094b9f4e9f" />
 
 
-## Live Demo
-Try out the live demo of the URL Shortener Web Application [here](https://lightlink.vercel.app).
-
 ## Installation
 To run the URL Shortener Web Application locally, follow these steps:
 
@@ -53,7 +50,6 @@ The URL Shortener Web Application will be running on `http://localhost:your-port
 ## Technologies Used
 - Frontend:
 - React
-- Chakra UI
 - React Router
 - Axios
 
@@ -62,12 +58,9 @@ The URL Shortener Web Application will be running on `http://localhost:your-port
 - Express
 - MongoDB (via Mongoose)
 
-## Deployment
-- Backend: Deployed on [Render](https://render.com)
-- Frontend: Deployed on [Vercel](https://vercel.com)
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please create a new issue or submit a pull request.
 
 ## Contact
-For any inquiries or questions, feel free to reach out via [email](mailto:akshaysinghr98@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-kumar046203/).
+For any inquiries or questions, feel free to reach out via [email](mailto:abhishek028625@gmail.com) 

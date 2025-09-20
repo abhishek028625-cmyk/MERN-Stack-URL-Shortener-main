@@ -8,7 +8,7 @@ export default function Homepage() {
         URL Shortener
           </Heading>
           <InputForm />
-          <Text m={ '3%' }>Made by Abbhishek Chaudhary</Text>
+          <Text m={ '3%' }>Made by Abhishek Chaudhary</Text>
     </>
   )
 }
